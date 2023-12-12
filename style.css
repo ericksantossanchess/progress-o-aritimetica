@@ -1,0 +1,42 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffbdb4;
+    font-family: sans-serif;
+  }
+  
+  h1 {
+    font-size: 2em;
+    color: #000000;
+    margin-top: 0;
+  }
+  
+  h2 {
+    align-items: center;
+    font-size: 1.5em;
+    color: #000000;
+    margin-top: 20px;
+  }
+  
+  button {
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 1.2em;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #222222;
+    border-radius: 10px;
+  }
+
+  ul{
+    align-items: center;
+    font-size: 1.5em;
+    color: #000000;
+    margin-top: 20px;
+  }
